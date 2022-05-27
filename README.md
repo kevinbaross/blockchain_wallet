@@ -1,8 +1,6 @@
 # Blockchain Wallet
 
-In this project, a blockchain-based ledger system is built with a user-friendly web interface. 
-This ledger enables partner banks to undertake financial transactions (i.e., money transfers between senders and receivers) as well as validate the ledger's data integrity.
-
+In this project, the user can search for, recruit, and pay fintech specialists from a pool of candidates. This platform integrates the Ethereum blockchain network into the app so that users may pay the fintech specialists they employ with cryptocurrency.
 
 ---
 
