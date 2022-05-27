@@ -44,7 +44,7 @@ streamlit run fintech_finder.py
 
 The following screen will load up.
 
-![ScreenShot1](image/scr19.1.png)
+![ScreenShot1](Images/scr19.1.png)
   
 Next, on the left side of the screen, you can choose who to send cryptocurrency to (ETH in this case).
 Let's pick Lane and indicate that she works for 5 hours as the following shows.
@@ -52,19 +52,19 @@ Let's pick Lane and indicate that she works for 5 hours as the following shows.
 You will see that the total wage in Ether is 0.2 * 5 = 1.0 Ether to send to Lane.
 Then, click 'Send Transaction' button. 
 
-![ScreenShot2](image/scr19.2.png)
+![ScreenShot2](Images/scr19.2.png)
 
 On the lower left side of the screen, you can see that the transaction hash is validated after you click 'Send Transaction' button.
 
-![ScreenShot3](image/scr19.3.png)
+![ScreenShot3](Images/scr19.3.png)
 
 If you go over to Ganache, you can see that 1.0 Ether has been deducted from your account to become 99.00 ETH as follows.
 
-![ScreenShot3](image/scr19.4.png)
+![ScreenShot3](Images/scr19.4.png)
 
 If you check out the transaction log in Ganache, you can see that the transaction has been recorded.
 
-![ScreenShot3](image/scr19.6.png)
+![ScreenShot3](Images/scr19.6.png)
 
 
 ---
