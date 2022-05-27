@@ -64,7 +64,7 @@ If you go over to Ganache, you can see that 1.0 Ether has been deducted from you
 
 If you check out the transaction log in Ganache, you can see that the transaction has been recorded.
 
-![ScreenShot3](Images/scr19.6.png)
+![ScreenShot3](Images/scr19.5.png)
 
 
 ---
